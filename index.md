@@ -21,7 +21,7 @@
 
 - **&ensp;Jul. 2018 - Oct. 2018 &emsp;  Summer Laboratory Intern, Center of Intelligent Machine, McGill University**
   - Project: Enhanced Remote Viewing Capabilities from a Camera Array
-
+  
 ## Academic Experiences
 - **&emsp;Jul. 2017 - Jul. 2018 &emsp;Study on the MTF Method of Medical Endoscopy, Team Leader**
   - Mainly in charge of program optimization, interface design, image preprocessing and relevant algorithms for Modulation Transfer Function（MTF） correction considering of camera pixel width
