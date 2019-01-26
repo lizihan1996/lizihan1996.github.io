@@ -14,6 +14,7 @@
 </table>
 
 # CV (Resume)
+---
 ## Educational Background
 - **Sept. 2015 - Jun. 2019 &emsp;Bachelor of Engineering (expected), School of Electronic Information, Wuhan University**
   - Major: Optoelectronic Information Science and Engineering
