@@ -21,7 +21,7 @@
 
 - **&ensp;Jul. 2018 - Oct. 2018 &emsp;  Summer Laboratory Intern, Center of Intelligent Machine, McGill University**
   - Project: Enhanced Remote Viewing Capabilities from a Camera Array
----
+
 ## Academic Experiences
 - **&emsp;Jul. 2017 - Jul. 2018 &emsp;Study on the MTF Method of Medical Endoscopy, Team Leader**
   - Mainly in charge of program optimization, interface design, image preprocessing and relevant algorithms for Modulation Transfer Function（MTF） correction considering of camera pixel width
@@ -32,7 +32,7 @@
 - **&ensp;Mar. 2016 - May 2016 &emsp;Mini Electronics Design Competition, Third Prize**
   - Mainly in charge of circuit parameters calculation, components selection and circuit welding
   - Made the low-noise loudspeaker and won the Third Prize
----
+
 ## Extracurricular Activities
 - **Sept. 2017 - Jun. 2019 &emsp;Freshmen Assistant Advisor** 													      
   - Assisted freshmen in enrollment, accommodation, etc.
@@ -46,7 +46,7 @@
   - Took the fourth place in Wuhan University
 - **Sept. 2015 - Jun. 2017 &emsp;Student Union Secretariat of the School of Electronic Information**   
   - Served as the Secretary-General, in charge of activity planning, holding meeting, student cadre training and evaluating, team-building, and financial work
----
+
 ## Awards & Certificates
 - 2017 &emsp;&emsp;&emsp;National Scholarship, Second Class (top 10%)
 - 2016 &emsp;&emsp;&emsp;National Scholarship, First Class (top 5%)
