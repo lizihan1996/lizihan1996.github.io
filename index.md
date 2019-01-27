@@ -70,7 +70,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 <table border="0">
   <tr>
     <td width="60%">
@@ -78,11 +80,13 @@
       <p><b>Modulation transfer function (MTF) is considered to be a concise and objective evaluation parameter for most of optical devices. To measure the MTF of medical video endoscope, a method based on knife-edge method is designed. In the research, the imaging qualities of three different endoscopes are tested and analyzed carefully, which can effectively support the correction of the MTF measurement method designed.</b></p>
     </td>
     <td width="40%">
-     <img src="/QuebecCity1.jpg" width="100%">     
+     <img src="/MTF Measurement.jpg" width="100%">     
     </td>
   </tr>
 </table>
+
 ---
+
 <table border="0">
   <tr>
     <td width="60%">
@@ -90,7 +94,7 @@
       <p><b>In recent years, CHR(China Railway High-speed) is developing at an incredible speed, and the quality of high-speed train will greatly affect the safety of operation. This project fouces on the rail transit train car body interior space size high precision measurement, based on laser triangulation principle of the line structured light, multi-image sensor joint measurement of visual measurement method, overcomes the drawback of traditional testing technology which include low speed, low efficiency, the limitation of the users. This method also benefits car body manufacturing process control providing quality inspection to provide reliable basis.</b></p>
     </td>
     <td width="40%">
-     <img src="/QuebecCity1.jpg" width="100%">     
+     <img src="/Interior Space Dimension.jpg" width="100%">     
     </td>
   </tr>
 </table>
