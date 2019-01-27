@@ -66,7 +66,7 @@
       <p><b>Image splicing is a common technology used both in image tampering and large FOV imaging with multi cameras. In this project, I plan not only to distinguish a photo is spliced or not, but also evaluate the level of distortion. For further study, this project can serve as the feedback of a image splicing system or a parameter of image quality evaluation.</b></p>
     </td>
     <td width="40%">
-     <img src="/QuebecCity1.jpg" width="100%">     
+     <img src="/Image Splicing.jpeg" width="100%">     
     </td>
   </tr>
 </table>
@@ -95,6 +95,20 @@
     </td>
     <td width="40%">
      <img src="/Interior Space Dimension.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+
+---
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>Mini Electronics Design Competition</h1>
+      <p><b>Our entry is a low-noise loudspeaker. We designed the circuit and soldered the circuit board all by ourselves.(The picture only shows the amplification part of it)</b></p>
+    </td>
+    <td width="40%">
+     <img src="/Competition.jpg" width="100%">     
     </td>
   </tr>
 </table>
