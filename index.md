@@ -14,6 +14,7 @@
 </table>
 
 # CV (Resume)
+---
 ## Educational Background
 - **Sept. 2015 - Jun. 2019 &emsp;Bachelor of Engineering (expected), School of Electronic Information, Wuhan University**
   - Major: Optoelectronic Information Science and Engineering
@@ -57,5 +58,39 @@
 - 2016-2018&emsp;Wuhan University Advanced Individual in Social Practice
 - 2016-2018&emsp;Grade Examination of Musical Instruments-Band 10 in Playing the Erhu
 
-
-
+# Projects
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>Detection of Image Splicing Used in Field of View Expansion(In Progress)</h1>
+      <p><b>Image splicing is a common technology used both in image tampering and large FOV imaging with multi cameras. In this project, I plan not only to distinguish a photo is spliced or not, but also evaluate the level of distortion. For further study, this project can serve as the feedback of a image splicing system or a parameter of image quality evaluation.</b></p>
+    </td>
+    <td width="40%">
+     <img src="/QuebecCity1.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+---
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>Study on the MTF Method of Medical Endoscopy</h1>
+      <p><b>Modulation transfer function (MTF) is considered to be a concise and objective evaluation parameter for most of optical devices. To measure the MTF of medical video endoscope, a method based on knife-edge method is designed. In the research, the imaging qualities of three different endoscopes are tested and analyzed carefully, which can effectively support the correction of the MTF measurement method designed.</b></p>
+    </td>
+    <td width="40%">
+     <img src="/QuebecCity1.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+---
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>High-precision Measurement Method for Interior Space Dimension of Railway Vehicles</h1>
+      <p><b>In recent years, CHR(China Railway High-speed) is developing at an incredible speed, and the quality of high-speed train will greatly affect the safety of operation. This project fouces on the rail transit train car body interior space size high precision measurement, based on laser triangulation principle of the line structured light, multi-image sensor joint measurement of visual measurement method, overcomes the drawback of traditional testing technology which include low speed, low efficiency, the limitation of the users. This method also benefits car body manufacturing process control providing quality inspection to provide reliable basis.</b></p>
+    </td>
+    <td width="40%">
+     <img src="/QuebecCity1.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
